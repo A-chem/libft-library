@@ -1,5 +1,7 @@
 # libft-library
+
 ---
+Libft is a foundational project at 42 that consists of re-implementing many standard C library functions such as memset, strcpy, atoi, isdigit, and more, entirely from scratch. It focuses on mastering low-level memory manipulation, pointer arithmetic, and writing clean, efficient, and reusable C code. The project also includes a bonus section to implement a full set of linked list utilities. Libft lays the groundwork for all future C projects at 42 by teaching essential skills like modular programming, memory safety, and Makefile usage.
 
 ````markdown
 # 📚 Libft – Your First C Library
